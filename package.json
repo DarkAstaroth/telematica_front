@@ -1,0 +1,26 @@
+{
+  "name": "ga",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.8.8",
+    "axios": "^0.27.2",
+    "next": "12.1.6",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-hook-form": "^7.30.0",
+    "react-select": "^5.3.2",
+    "sweetalert2": "^11.4.10",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
